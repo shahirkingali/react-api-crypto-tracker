@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+#  Cryptocurrency Finance Price Tracker App Using Hooks and Axios
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
